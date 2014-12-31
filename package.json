@@ -1,0 +1,27 @@
+{
+  "name": "lodash-object-plugin",
+  "version": "1.0.0",
+  "description": "A collection of lodash object helpers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omryn/lodash-object-plugin.git"
+  },
+  "keywords": [
+    "lodash",
+    "node",
+    "object"
+  ],
+  "author": "Omry Nachman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omryn/lodash-object-plugin/issues"
+  },
+  "homepage": "https://github.com/omryn/lodash-object-plugin"
+}

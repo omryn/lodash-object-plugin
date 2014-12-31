@@ -2,7 +2,7 @@
  * Created by Omry_Nachman on 12/23/14.
  */
 "use strict";
-var _ = require('../../src/libs/lodash-object-plugins');
+var _ = require('../src/lodash-object-plugins');
 
 describe("lodash-object-plugins", function () {
   describe("_.traverse", function () {
