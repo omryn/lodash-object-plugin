@@ -17,12 +17,12 @@ module.exports = function (grunt) {
       }
     },
     simpleJasmine: {
-      options: {
-        spec_dir: "test",
-        spec_files: ['**/*spec.js']
+      unit: {
+        options: {
+          spec_dir: "test"
+        }
       }
     }
-
   });
 
 

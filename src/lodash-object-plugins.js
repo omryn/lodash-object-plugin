@@ -101,7 +101,7 @@ var added = {
   }
 };
 
-var _ = require('_');
+var _ = require('lodash');
 _.mixin(added);
 
 module.exports = _;

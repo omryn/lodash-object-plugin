@@ -1,6 +1,6 @@
 {
   "name": "lodash-object-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of lodash object helpers",
   "main": "index.js",
   "directories": {
